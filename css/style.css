@@ -1,4 +1,17 @@
-.vcolor{
-    color: grey;
+*{
+    margin: 5ex, 5ex, 5ex, 5ex;
+}
+
+.alinea{
+    color: rgb(156, 151, 151);
     text-align: center;
+}
+.alineaiz{
+    margin-left: 15ex;
+    color:  rgb(156, 151, 151);
+    text-align: left;
+    padding: 0;
+}
+table{
+    text-indent: 0ex;
 }
